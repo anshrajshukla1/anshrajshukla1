@@ -2,8 +2,6 @@
 
 <img src="./ascii.svg" width="460" alt="Ansh Raj Shukla"/>
 
-<img src="./stats.svg?v=1" width="620" alt="Contributions in the last year"/>
-
 [LinkedIn](https://www.linkedin.com/in/ansh-raj-shukla-84572831a) &nbsp;·&nbsp;
 [Email](mailto:anshrajshukla.official@gmail.com)
 
@@ -18,12 +16,3 @@
 
 <samp>java &nbsp; spring-boot &nbsp; mern &nbsp; javascript &nbsp; react &nbsp; python &nbsp; fastapi &nbsp; sql &nbsp; docker &nbsp; git</samp>
 
-<img src="./hd-stats.svg" width="620" alt="stats"/>
-
-<div align="center">
-
-<img src="./streak.svg?v=1" width="620" alt="Current and longest streak"/>
-
-<img src="./langs.svg?v=1" width="620" alt="Top languages by bytes and by repo"/>
-
-</div>
