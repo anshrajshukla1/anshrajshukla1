@@ -16,7 +16,7 @@
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>java &nbsp; spring-boot &nbsp; javascript &nbsp; react &nbsp; python &nbsp; sql &nbsp; docker &nbsp; git</samp>
+<samp>java &nbsp; spring-boot &nbsp; mern &nbsp; javascript &nbsp; react &nbsp; python &nbsp; fastapi &nbsp; sql &nbsp; docker &nbsp; git</samp>
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
