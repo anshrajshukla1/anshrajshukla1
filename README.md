@@ -4,8 +4,8 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[LinkedIn](https://www.linkedin.com/in/anshrajshukla/) &nbsp;·&nbsp;
-[Email](mailto:anshrajshukla@example.com)
+[LinkedIn](https://www.linkedin.com/in/ansh-raj-shukla-84572831a) &nbsp;·&nbsp;
+[Email](mailto:anshrajshukla.official@gmail.com)
 
 </div>
 
