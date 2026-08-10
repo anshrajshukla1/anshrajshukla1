@@ -4,7 +4,7 @@
 
 </div>
 
-# 💫 About Me:
+#  About Me:
 Currently Working As A Software Development Intern At 2une.ai 
 
 
