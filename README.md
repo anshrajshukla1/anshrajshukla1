@@ -5,7 +5,7 @@
 </div>
 
 #  Software Developer
-Currently Working As A Software Development Intern At 2une.ai 
+21 y/o | Currently Working As A Software Development Intern At 2une.ai 
 
 
 ## 🌐 Socials:
